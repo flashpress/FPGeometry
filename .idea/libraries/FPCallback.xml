@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FPCallback" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../cb/out/FPCallback.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
